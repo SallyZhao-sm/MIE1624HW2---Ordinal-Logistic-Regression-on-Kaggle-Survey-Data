@@ -1,0 +1,1 @@
+# MIE1624HW2---Ordinal-Logistic-Regression-on-Kaggle-Survey-Data
